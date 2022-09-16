@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    
+    font-family:monospace;
+    line-height: 1.5;
+    font-size: 18px;
+    
+    background: url("img/1644827785_14-krot-info-p-besshovnii-fon-dlya-saita-15.jpg");
+}
+
+.card{
+    width: 400px;
+    margin: 30px auto;
+    
+    background-color: #ccc;
+    box-shadow: 0 5px 10px #807f7f;
+    padding: 20px;
+    border-radius: 10px;
+  
+}
+
+.card-photo{
+    display: block;
+    width="200"; 
+    height="200";
+    margin: 0 auto;
+    border-radius: 50%;
+}
+
+.card-title{
+    font-size: 20px;
+    text-align: center;
+    color: #3e2525;
+}
+
+.card-text{
+    font-size: 14px; 
+}
+.subtitle{
+    font-size: 18px; 
+    color: #3e2525;
+}
+
+.card-list{
+    padding-left: 0;
+    list-style-position: inside;
+    font-size: 14px;
+}
